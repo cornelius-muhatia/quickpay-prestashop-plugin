@@ -1,0 +1,9 @@
+
+div#mymodule_block_home p {
+    font-size: 150%;
+    font-style:italic;
+}
+p.payment_module a.quickpay-checkout{
+    background: url(../img/quickpay.png) 15px 15px no-repeat #fbfbfb;
+}
+
